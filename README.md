@@ -21,11 +21,11 @@
 
 <p align="center">   
   <a href="https://github.com/sabapipia"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabapipia&theme=radical" alt="Niks Nozadze's GitHub Contribution"/>     </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabapipia&theme=radical" alt="Saba Pipia's GitHub Contribution"/>     </a>
 </p>
 
 <p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabapipia" alt="Niks Nozadze's GitHub Contribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabapipia" alt="Saba Pipia's GitHub Contribution"/>
 </p>
 
 <p align="center">

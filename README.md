@@ -10,13 +10,6 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabapipia" alt="sabapipia" /></a> </p>
-
-
-- 👨‍💻 All of my projects are available at [sabapipia](https://github.com/SabaPipia)
-
-- 📫 How to reach me [Saba Pipia](https://www.linkedin.com/in/saba-pipia-0761a3233/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saba-pipia-0761a3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba pipia" height="30" width="40" /></a>
@@ -40,7 +33,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-3178C6?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 <p align="center">   

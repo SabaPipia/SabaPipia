@@ -7,13 +7,8 @@
 </div>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/saba-pipia/count.svg" />
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saba-pipia-0761a3233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saba pipia" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,18 +28,19 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-3178C6?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3 align='center' font-size='30'>
+ Stats
+</h3>
 
+<div align="center">   
+    
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabapipia&theme=ayu_mirage)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabapipia&theme=ayu_mirage)
 
-<p align="center">   
-  <a href="https://github.com/sabapipia"> 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabapipia&theme=radical" alt="Saba Pipia's GitHub Contribution"/>     </a>
-</p>
-
-<p align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabapipia" alt="Saba Pipia's GitHub Contribution"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabapipia&" alt="sabapipia" />
-</p>
+</div>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sabapipia&card_width=683)](https://git.io/streak-stats)
+  
+</div>

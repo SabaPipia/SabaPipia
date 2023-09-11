@@ -42,8 +42,3 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabapipia&theme=ayu_mirage)
 
 </div>
-<div align="center">
-  
-[![](https://github-readme-streak-stats.herokuapp.com?user=sabapipia&card_width=683)](https://git.io/streak-stats)
-  
-</div>

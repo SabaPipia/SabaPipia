@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saba Pipia</h1>
+<h1 align="center">Hi, I'm Saba Pipia</h1>
 <h3 align="center">Front-end Developer</h3>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/saba-pipia-0761a3233/" target="blank">

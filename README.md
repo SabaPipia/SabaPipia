@@ -3,8 +3,8 @@
 <h3 align="center">Front-end Developer</h3>
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/saba-pipia-0761a3233/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a align="center" href="https://www.linkedin.com/in/saba-pipia-0761a3233/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 

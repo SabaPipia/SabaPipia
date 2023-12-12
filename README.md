@@ -43,5 +43,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabapipia&theme=ayu_mirage)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabapipia&theme=ayu_mirage)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SabaPipia&theme=ayu-mirage&hide_border=true&border_radius=4.7&card)](https://git.io/streak-stats)
 </div>
 

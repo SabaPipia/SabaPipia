@@ -7,11 +7,6 @@
   </a>
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saba-pipia/count.svg" />
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <div align='center'>
 
